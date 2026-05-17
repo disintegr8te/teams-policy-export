@@ -527,4 +527,4 @@ Invoke-Pester -Path .\Tests\ -Output Detailed
 
 ## License
 
-MIT
+Apache 2.0. See [LICENSE](LICENSE) for the full text.
